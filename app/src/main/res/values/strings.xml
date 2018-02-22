@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LABA2_CRYPTING_AES</string>
+    <string name="key">Key</string>
+    <string name="string">String</string>
+    <string name="save">Save in file</string>
+    <string name="encrypted_text">Encrypted String</string>
+</resources>
